@@ -36,7 +36,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: ""
+  external_url: "botyachtclub.xyz"
 };
 
 
