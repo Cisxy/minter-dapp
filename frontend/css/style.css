@@ -1,12 +1,12 @@
 /* FONTS */
 
-@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap");
 
 /* GLOBAL STYLES */
 
 :root {
   --font-primary: "Roboto", sans-serif;
-  --font-secondary: "Arvo", serif;
+  --font-secondary: "Roboto", sans-serif;
   --font-code: "Roboto", monospace;
   --bg-color: #008dcb;
   --bg-color-transparent: #008dcb;
